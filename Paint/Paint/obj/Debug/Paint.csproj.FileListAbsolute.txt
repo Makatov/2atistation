@@ -1,0 +1,18 @@
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Адиль\Desktop\Самат\Programming-Technologies-2018\attestation 2\week 10\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\s_makatov\Desktop\Самат\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache

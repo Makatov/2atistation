@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_Samat", "Calc_Samat\Calc_Samat.csproj", "{314149ED-169B-415E-98BE-CF9D80CF7357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314149ED-169B-415E-98BE-CF9D80CF7357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314149ED-169B-415E-98BE-CF9D80CF7357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314149ED-169B-415E-98BE-CF9D80CF7357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314149ED-169B-415E-98BE-CF9D80CF7357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B961503-17B0-40D1-A642-BC076FCF69A9}
+	EndGlobalSection
+EndGlobal
